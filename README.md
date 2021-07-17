@@ -1,6 +1,6 @@
-# AC學期2-3_A10_Q1_Check Password
+# AC學期2-3_A10_Q1_Login Page
 
-AlphaCamp學期2-3，A10作業專案的Check Password，  
+AlphaCamp學期2-3，A10作業專案的Login Page，  
 使用 Node.js , Express , express-handlebars 打造的login介面並認證資料。
 
 ## 功能描述
